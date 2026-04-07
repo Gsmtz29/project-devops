@@ -33,6 +33,6 @@ if __name__ == "__main__":
         elif accion == "detener":
             detener(instance_id)
         elif accion == "terminar":
-            terminar(instance_id) 
-t
+            terminar(instance_id)
 
+acs
